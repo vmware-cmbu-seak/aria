@@ -12,3 +12,8 @@ Aria Main Workspace
 	<p align="center"><a href="https://github.com/vmware-cmbu-seak/aria-operations">Aria Operations (AO)</a></p>
 	<p align="center"><a href="https://github.com/vmware-cmbu-seak/aria-operations-logs">Aria Operations for Log (AOL)</a></p>
 </div>
+<br/>
+<div style="border-style: dashed;margin: 1em;padding: 1em">
+	<h3><p align="center">For Internal Team</p></h3>
+	<p align="center"><a href="https://github.com/vmware-cmbu-seak/aria-team-workspace">CMBU SEAK Team's Workspace</a></p>
+</div>
