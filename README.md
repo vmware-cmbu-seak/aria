@@ -12,9 +12,6 @@ Aria Main Workspace
 	<p align="center"><a href="https://github.com/vmware-cmbu-seak/aria-operations">Aria Operations (AO)</a></p>
 	<p align="center"><a href="https://github.com/vmware-cmbu-seak/aria-operations-logs">Aria Operations for Log (AOL)</a></p>
 	<p align="center"><a href="https://drive.google.com/file/d/19BmXkoH8hGU4Nb19oEf5op944hXKSU4c/view?usp=share_link">Aria PPT Docs</a></p>
-	
-	<p align="center"><a href="https://vmware.zoom.us/j/98007663350?pwd=OERtRkl5bXROek5tOVVydkYzRGkzQT09&from=addon#success">SDS Training Zoom</a></p>
-	
 </div>
 <br/>
 <div style="border-style: dashed;margin: 1em;padding: 1em">
